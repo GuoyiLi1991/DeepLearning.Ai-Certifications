@@ -1,6 +1,6 @@
 # Course 4: Convolutional Neural Networks
 
-## Description:
+## Description
 You will: - Understand how to build a convolutional neural network, including recent variations such as residual networks. - Know how to apply convolutional networks to visual detection and recognition tasks. - Know to use neural style transfer to generate art. - Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data. This is the fourth course of the Deep Learning Specialization.
 
 - #### Week 1: Foundations of Convolutional Neural Networks
