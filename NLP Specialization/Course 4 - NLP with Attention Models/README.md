@@ -1,7 +1,7 @@
 # Course 4: NLP with Attention Models
 
 ## Description
-In Course 4 of the Natural Language Processing Specialization, offered by DeepLearning.AI, you will: translate complete English sentences into German using an encoder-decoder attention model, build a Transformer model to summarize text, use T5 and BERT models to perform question-answering, and build a chatbot using a Reformer model.
+In Course 4 of the NLP Specialization, offered by DeepLearning.AI, you will: translate complete English sentences into German using an encoder-decoder attention model, build a Transformer model to summarize text, use T5 and BERT models to perform question-answering, and build a chatbot using a Reformer model.
 
 - #### Week 1: Neural Machine Translation
 	- Discover some of the shortcomings of a traditional seq2seq model and how to solve for them by adding an attention mechanism, then build a Neural Machine Translation model with Attention that translates English sentences into German.
