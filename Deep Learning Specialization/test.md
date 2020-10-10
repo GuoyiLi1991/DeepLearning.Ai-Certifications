@@ -5,7 +5,6 @@
 - #### Course 4: Neural Networks and Deep Learning
 - #### Course 5: Sequence Models
 
-<div style="width:200px;">
-
+<div style="width:200;">
   <img src="Deep Learning Certification Images/Deep_Learning.jpg">
 </div>
