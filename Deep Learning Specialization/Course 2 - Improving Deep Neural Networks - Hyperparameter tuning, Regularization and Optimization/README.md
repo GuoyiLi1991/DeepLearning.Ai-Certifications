@@ -7,11 +7,11 @@
 	- Assess the right time and place for using regularization methods such as dropout or L2 regularization
 	- Explain Vanishing and Exploding gradients and how to deal with them
 	- Use gradient checking to verify the accuracy of your backpropagation implementation 
-#### Week 2: Optimization algorithms
+- #### Week 2: Optimization algorithms
 	- Apply optimization methods such as (Stochastic) Gradient Descent, Momentum, RMSProp and Adam
 	- Use random minibatches to accelerate convergence and improve optimization
 	- Describe the benefits of learning rate decay and apply it to your optimization
-#### Week 3: Hyperparameter tuning, Batch Normalization and Programming Frameworks
+- #### Week 3: Hyperparameter tuning, Batch Normalization and Programming Frameworks
 	- Master the process of hyperparameter tunin
 
 ---
