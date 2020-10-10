@@ -1,4 +1,4 @@
-# Deep Learning
+# Deep Learning Course Structure
 - ### Course 1: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 - ### Course 2: Structuring Machine Learning Projects
 - ### Course 3: Convolutional Neural Networks
