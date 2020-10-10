@@ -1,10 +1,7 @@
-# Course 1: Natural Language Processing with Classification and Vector Spaces
+# Course 1: NLP with Classification and Vector Spaces
 
 ## Description
-In Course 1 of the Natural Language Processing Specialization, offered by deeplearning.ai, you will:
-- Perform sentiment analysis of tweets using logistic regression and then naïve Bayes, 
--  Use vector space models to discover relationships between words and use PCA to reduce the dimensionality of the vector space and visualize those relationships, and
--  Write a simple English to French translation algorithm using pre-computed word embeddings and locality sensitive hashing to relate words via approximate k-nearest neighbor search.   
+In Course 1 of the NLP, offered by deeplearning.ai, you will: perform sentiment analysis of tweets using logistic regression and then naïve Bayes, use vector space models to discover relationships between words and use PCA to reduce the dimensionality of the vector space and visualize those relationships, and write a simple English to French translation algorithm using pre-computed word embeddings and locality sensitive hashing to relate words via approximate k-nearest neighbor search.   
 
 - #### Week 1: Sentiment Analysis with Logistic Regression
 	- Learn to extract features from text into numerical vectors, then build a binary classifier for tweets using a logistic regression!
