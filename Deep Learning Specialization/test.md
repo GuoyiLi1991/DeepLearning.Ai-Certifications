@@ -5,4 +5,6 @@
 - #### Course 4: Neural Networks and Deep Learning
 - #### Course 5: Sequence Models
 
-<img src="Deep Learning Certification Images/Deep_Learning.jpg" alt="Italian Trulli">
+<p align="center">
+  <img src="Deep Learning Certification Images/Deep_Learning.jpg" width="80%>
+</p
