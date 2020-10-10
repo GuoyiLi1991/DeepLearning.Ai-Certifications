@@ -6,5 +6,5 @@
 - #### Course 5: Sequence Models
 
 <p align="center">
-  <img src="Deep Learning Certification Images/Deep_Learning.jpg" | width=500 />
+  <img src="Deep Learning Certification Images/Deep_Learning.jpg" | width=800 />
 </p>
