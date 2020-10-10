@@ -12,5 +12,5 @@
 
 # Certification
 <p align="center">
-  <img src="Deep Learning Certification Images/Deep_Learning.jpg" | width=800 />
+  <img src="Deep Learning Certification Images/Neural_Networks_and_Deep_Learning-1" | width=800 />
 </p>
