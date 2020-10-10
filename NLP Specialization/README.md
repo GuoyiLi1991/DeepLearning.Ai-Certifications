@@ -23,13 +23,13 @@ This Specialization is designed and taught by two experts in NLP, machine learni
 ## Courses
 
 - ### Course 1: NLP with Classification and Vector Spaces
-  - ##### In this course, you will perform sentiment analysis of tweets using logistic regression and then naïve Bayes, use vector space models to discover relationships between words and use PCA to reduce the dimensionality of the vector space and visualize those relationships, and write a simple English to French translation algorithm using pre-computed word embeddings and locality sensitive hashing to relate words via approximate k-nearest neighbor search. 
+  - In this course, you will perform sentiment analysis of tweets using logistic regression and then naïve Bayes, use vector space models to discover relationships between words and use PCA to reduce the dimensionality of the vector space and visualize those relationships, and write a simple English to French translation algorithm using pre-computed word embeddings and locality sensitive hashing to relate words via approximate k-nearest neighbor search. 
 - ### Course 2: NLP with Probabilistic Models
-  - ##### In this course, you will: create a simple auto-correct algorithm using minimum edit distance and dynamic programming, apply the Viterbi Algorithm for part-of-speech (POS) tagging, which is important for computational linguistics, write a better auto-complete algorithm using an N-gram language model, and write your own Word2Vec model that uses a neural network to compute word embeddings using a continuous bag-of-words model.
+  - In this course, you will: create a simple auto-correct algorithm using minimum edit distance and dynamic programming, apply the Viterbi Algorithm for part-of-speech (POS) tagging, which is important for computational linguistics, write a better auto-complete algorithm using an N-gram language model, and write your own Word2Vec model that uses a neural network to compute word embeddings using a continuous bag-of-words model.
 - ### Course 3: NLP with with Sequence Models
-  - ##### In this course, you will: train a neural network with GLoVe word embeddings to perform sentiment analysis of tweets, generate synthetic Shakespeare text using a Gated Recurrent Unit (GRU) language model, train a recurrent neural network to perform named entity recognition (NER) using LSTMs with linear layers, and use so-called ‘Siamese’ LSTM models to compare questions in a corpus and identify those that are worded differently but have the same meaning. 
+  - In this course, you will: train a neural network with GLoVe word embeddings to perform sentiment analysis of tweets, generate synthetic Shakespeare text using a Gated Recurrent Unit (GRU) language model, train a recurrent neural network to perform named entity recognition (NER) using LSTMs with linear layers, and use so-called ‘Siamese’ LSTM models to compare questions in a corpus and identify those that are worded differently but have the same meaning. 
 - ### Course 4: NLP with Attention Models
-  - ##### In this course, you will: translate complete English sentences into German using an encoder-decoder attention model, build a Transformer model to summarize text, use T5 and BERT models to perform question-answering, and build a chatbot using a Reformer model.
+  - In this course, you will: translate complete English sentences into German using an encoder-decoder attention model, build a Transformer model to summarize text, use T5 and BERT models to perform question-answering, and build a chatbot using a Reformer model.
 
 ---
 
