@@ -20,13 +20,18 @@ deeplearning.ai is also partnering with the NVIDIA Deep Learning Institute (DLI)
 
 ## Courses
 
-- ### Course 1: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-  - If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new "superpower" that will let you build AI systems that just weren't possible a few years ago.
-- ### Course 2: Structuring Machine Learning Projects
+- ### Course 1: Neural Networks and Deep Learning
+  - In this course, you will learn the foundations of deep learning. When you finish this class, you will:
+  	- Understand the major technology trends driving Deep Learning
+	- Be able to build, train and apply fully connected deep neural networks 
+	- Know how to implement efficient (vectorized) neural networks 
+	- Understand the key parameters in a neural network's architecture 
+  - This course also teaches you how Deep Learning actually works, rather than presenting only a cursory or surface-level description. So after completing it, you will be able to apply deep learning to a your own applications. 
+- ### Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
   - This course will teach you the "magic" of getting deep learning to work well. Rather than the deep learning process being a black box, you will understand what drives performance, and be able to more systematically get good results. You will also learn TensorFlow.
-- ### Course 3: Convolutional Neural Networks
+- ### Course 3: Structuring Machine Learning Projects
   - You will learn how to build a successful machine learning project. If you aspire to be a technical leader in AI, and know how to set direction for your team's work, this course will show you how.
-- ### Course 4: Neural Networks and Deep Learning
+- ### Course 4: Convolutional Neural Networks
   - This course will teach you how to build convolutional neural networks and apply it to image data. Thanks to deep learning, computer vision is working far better than just two years ago, and this is enabling numerous exciting applications ranging from safe autonomous driving, to accurate face recognition, to automatic reading of radiology images.
 - ### Course 5: Sequence Models
   - This course will teach you how to build models for natural language, audio, and other sequence data. Thanks to deep learning, sequence algorithms are working far better than just two years ago, and this is enabling numerous exciting applications in speech recognition, music synthesis, chatbots, machine translation, natural language understanding, and many others.
