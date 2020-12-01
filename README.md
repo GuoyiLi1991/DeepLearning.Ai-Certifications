@@ -20,9 +20,13 @@
     - **Course 2:** Convolutional Neural Networks in TensorFlow
     - **Course 3:** Natural Language Processing in TensorFlow
     - **Course 4:** Sequences, Time Series and Prediction
-
  - ## TensorFlow: Data and Deployment Specialization
     - **Course 1:** Browser-based Models with TensorFlow.js
     - **Course 2:** Device-based Models with TensorFlow Lite
     - **Course 3:** Data Pipelines with TensorFlow Data Services
     - **Course 4:** Advanced Deployment Scenarios with TensorFlow
+ - ## TensorFlow: Advanced Techniques Specialization
+    - **Course 1:** Custom Models, Layers, and Loss Functions with TensorFlow
+    - **Course 2:** Custom and Distributed Training with TensorFlow
+    - **Course 3:** Advanced Computer Vision with TensorFlow (To Be Released in December 2020)
+    - **Course 4:** Generative Deep Learning with TensorFlow (To Be Released in Janurary 2021)
