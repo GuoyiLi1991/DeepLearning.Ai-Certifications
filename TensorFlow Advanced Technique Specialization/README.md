@@ -4,17 +4,15 @@
 Expand your knowledge of the Functional API and build exotic non-sequential model types. Learn how to optimize training in different environments with multiple processors and chip types and get introduced to advanced computer vision scenarios such as object detection, image segmentation, and interpreting convolutions. Explore generative deep learning including the ways AIs can create new content from Style Transfer to Auto Encoding, VAEs, and GANs.
 
 ## Applied Learning Project
-In this Specialization, you will gain practical knowledge of and hands-on training in advanced TensorFlow techniques such as style transfer, object detection, and generative machine learning.
+**In this Specialization, you will gain practical knowledge of and hands-on training in advanced TensorFlow techniques such as style transfer, object detection, and generative machine learning.**
 
-• **Course 1:** Understand the underlying basis of the Functional API and build exotic non-sequential model types, custom loss functions, and layers.
+• Understand the underlying basis of the Functional API and build exotic non-sequential model types, custom loss functions, and layers.
 
-• **Course 2:** Learn how optimization works and how to use GradientTape and Autograph. Optimize training in different environments with multiple processors and chip types.
+• Learn how optimization works and how to use GradientTape and Autograph. Optimize training in different environments with multiple processors and chip types.
 
-• **Course 3:** Practice object detection, image segmentation, and visual interpretation of convolutions.
+• Practice object detection, image segmentation, and visual interpretation of convolutions.
 
-• **Course 4:** Explore generative deep learning and how AIs can create new content, from Style Transfer through Auto Encoding and VAEs to Generative Adversarial Networks.
-
-In this Specialization, you will gain practical knowledge of and hands-on training in advanced TensorFlow techniques such as style transfer, object detection, and generative machine learning.
+• Explore generative deep learning and how AIs can create new content, from Style Transfer through Auto Encoding and VAEs to Generative Adversarial Networks.
 
 ---
 
@@ -31,7 +29,7 @@ In this Specialization, you will gain practical knowledge of and hands-on traini
 
 ---
 
-# Certification once all courses are released and completed.
+# Certification will be displayed once all courses are released and completed...
 <!--
 <p align="center">
   <img src="NA.jpg" | width=800 />
