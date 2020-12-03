@@ -29,7 +29,7 @@ Expand your knowledge of the Functional API and build exotic non-sequential mode
 
 ---
 
-# Certification will be displayed once all courses are released and completed...
+# Certification will be displayed once courses are released and completed...
 <!--
 <p align="center">
   <img src="NA.jpg" | width=800 />
