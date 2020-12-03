@@ -14,7 +14,7 @@ We will help you master Deep Learning, understand how to apply it, and build a c
 ## Applied Learning Project
 You will see and work on case studies in healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will also build near state-of-the-art deep learning models for several of these applications. In a "Machine Learning flight simulator", you will work through case studies and gain "industry-like experience" setting direction for an ML team.
 
-deeplearning.ai is also partnering with the NVIDIA Deep Learning Institute (DLI) in Course 5, Sequence Models, to provide a programming assignment on Machine Translation with deep learning. You will have the opportunity to build a deep learning project with cutting-edge, industry-relevant content.
+Deeplearning.ai is also partnering with the NVIDIA Deep Learning Institute (DLI) in Course 5, Sequence Models, to provide a programming assignment on Machine Translation with deep learning. You will have the opportunity to build a deep learning project with cutting-edge, industry-relevant content.
 
 ---
 

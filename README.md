@@ -1,5 +1,5 @@
 ---
- ### This repository contains all my notes and code for the following specializations below. Due to most labs and assignements being jupyter notebooks, I have generated PDFs of all labs and assignments, in addition to my annotated notes, to make them more easily accessible to transfer to your workspace without having to do any conversions. 
+ ### This repository contains all my notes and code for the following specializations. Due to most labs and assignements being jupyter notebooks, I have generated PDFs of all labs and assignments, in addition to my annotated notes, to make them more easily accessible to transfer to your workspace without having to do any conversions. 
 ---
 
 # Certifications of Deeplearning.Ai's Specializations
